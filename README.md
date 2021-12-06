@@ -1,2 +1,2 @@
-# nicki-starter-code-class-roster
+# code-nation-class-roster
 Created with CodeSandbox
